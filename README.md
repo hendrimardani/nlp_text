@@ -6,6 +6,7 @@ Natural Language Processing
  python utama.py 
 ```
 Options:
+
 keluar = untuk keluar dari terminal (Exit)
 
 
