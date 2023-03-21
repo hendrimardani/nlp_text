@@ -10,4 +10,4 @@ Natural Language Processing
 keluar = untuk keluar dari terminal (Exit)
 
 
-![test](https://im5.ezgif.com/tmp/ezgif-5-c8ec83d66e.gif)
+![test](https://im4.ezgif.com/tmp/ezgif-4-c48e75e88a.gif)
